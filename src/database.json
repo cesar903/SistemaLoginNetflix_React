@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "ae76",
+      "email": "cesar@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "fda1",
+      "email": "cesarreis@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "58f3",
+      "email": "cesaraugusto@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "a150",
+      "email": "joana@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "823c",
+      "email": "denis@gmail.com",
+      "password": "12345+6"
+    }
+  ]
+}
